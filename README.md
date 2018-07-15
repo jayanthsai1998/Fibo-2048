@@ -5,4 +5,4 @@ It is a console based game.
 
 A leaderboard is generated for the players who had played.
 
-We can also resume the game where we have closed the game previously.
+We can also resume the game where we have closed it previously.
